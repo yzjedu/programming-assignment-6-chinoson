@@ -1,3 +1,7 @@
+# Henderson Fryer
+# CS701_W02
+# Submitted 08/24/2024
+
 import random
 
 # Function that generates a shuffled deck of 52 cards.
